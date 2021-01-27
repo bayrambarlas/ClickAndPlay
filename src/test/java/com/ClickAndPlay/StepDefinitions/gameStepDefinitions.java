@@ -73,5 +73,4 @@ public class gameStepDefinitions {
         basePage.clickOK();
         Assert.assertEquals("Not a good size!", basePage.getText());
     }
-
-}
+ }

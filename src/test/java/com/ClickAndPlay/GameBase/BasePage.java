@@ -32,7 +32,7 @@ public class BasePage {
 
                 }
             }
-            else if (i!=0 || i!= allRows.size()-1){
+            else {
 
                 for (int j = 0; j<allRows.size(); j++){
 
