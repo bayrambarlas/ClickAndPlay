@@ -11,7 +11,7 @@ import org.junit.runner.RunWith;
         features = "src/test/resources/features/",
         glue = "com/ClickAndPlay/StepDefinitions/",
         dryRun = false,
-        tags = "@laimute"
+        tags = "@marcus"
 )
 public class CukesRunner {
 }
